@@ -17,3 +17,7 @@ A Python-based desktop AI assistant with voice interaction, wake-word detection,
 - PyQt
 - Speech Recognition
 - Text-to-Speech
+- 
+## Developer
+
+Developed by **Sachin Badiger**
