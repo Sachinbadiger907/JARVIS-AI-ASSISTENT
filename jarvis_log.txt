@@ -1,0 +1,24 @@
+Traceback (most recent call last):
+  File "C:\Users\HP\OneDrive\Desktop\JARVIS AI ASSISTENT\main.py", line 26, in <module>
+    from brain import voice_id
+  File "C:\Users\HP\OneDrive\Desktop\JARVIS AI ASSISTENT\brain\voice_id.py", line 7, in <module>
+    from resemblyzer import VoiceEncoder, preprocess_wav
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python312\Lib\site-packages\resemblyzer\__init__.py", line 3, in <module>
+    from resemblyzer.audio import preprocess_wav, wav_to_mel_spectrogram, trim_long_silences, \
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python312\Lib\site-packages\resemblyzer\audio.py", line 6, in <module>
+    import webrtcvad
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python312\Lib\site-packages\webrtcvad.py", line 1, in <module>
+    import pkg_resources
+ModuleNotFoundError: No module named 'pkg_resources'
+Traceback (most recent call last):
+  File "C:\Users\HP\OneDrive\Desktop\JARVIS AI ASSISTENT\main.py", line 26, in <module>
+    from brain import voice_id
+  File "C:\Users\HP\OneDrive\Desktop\JARVIS AI ASSISTENT\brain\voice_id.py", line 7, in <module>
+    from resemblyzer import VoiceEncoder, preprocess_wav
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python312\Lib\site-packages\resemblyzer\__init__.py", line 3, in <module>
+    from resemblyzer.audio import preprocess_wav, wav_to_mel_spectrogram, trim_long_silences, \
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python312\Lib\site-packages\resemblyzer\audio.py", line 6, in <module>
+    import webrtcvad
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python312\Lib\site-packages\webrtcvad.py", line 1, in <module>
+    import pkg_resources
+ModuleNotFoundError: No module named 'pkg_resources'

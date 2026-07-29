@@ -1,0 +1,12 @@
+speechrecognition
+pyttsx3
+pyaudio
+pyautogui
+requests
+edge-tts
+pygame
+psutil
+pytesseract
+pillow
+pywhatkit
+resemblyzer
