@@ -193,6 +193,8 @@ Aspiring AI Engineer passionate about Artificial Intelligence, Machine Learning,
 
 GitHub:
 https://github.com/Sachinbadiger907
+linkedin:
+https://www.linkedin.com/in/sachin-badiger-16880733a/
 
 ---
 
